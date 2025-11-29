@@ -1,1 +1,0 @@
-The track_logs.txt file is used to store a record of every tracking activity that happens in your supply chain system.
